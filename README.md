@@ -10,6 +10,7 @@
 
 | 项目 | 说明 | 状态 |
 |---|---|---|
+| [**self-evolving-agent**](https://github.com/3loveljw2/self-evolving-agent) | 越用越懂你的系统：AI 记忆系统基准框架（五层架构/经验蒸馏/技能进化，sea CLI 已可运行） | ⭐ 旗舰 |
 | [**trace-dig-method**](https://github.com/3loveljw2/trace-dig-method) | 溯源深挖法：通用研究推理方法论（结论→溯源→机制→根因→可行动） | ⭐ 方法论 |
 | [**autonomous-proposition**](https://github.com/3loveljw2/autonomous-proposition) | 自主命题方法论：让 AI 独立完成高质量出卷（人机决策分离+经验蒸馏） | ⭐ 方法论 |
 
