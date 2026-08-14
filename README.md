@@ -10,6 +10,7 @@
 
 | 项目 | 说明 | 状态 |
 |---|---|---|
+| [**agent-identity-kit**](https://github.com/3loveljw2/agent-identity-kit) | AI 技术团队身份技能包：10 个会进化的 Agent 身份（自进化 + 实证 + 双路径：落地即用 / 自适应探索） | 🔥 最新 |
 | [**self-evolving-agent**](https://github.com/3loveljw2/self-evolving-agent) | 越用越懂你的系统：AI 记忆系统基准框架（五层架构/经验蒸馏/技能进化，sea CLI 已可运行） | ⭐ 旗舰 |
 | [**trace-dig-method**](https://github.com/3loveljw2/trace-dig-method) | 溯源深挖法：通用研究推理方法论（结论→溯源→机制→根因→可行动） | ⭐ 方法论 |
 | [**autonomous-proposition**](https://github.com/3loveljw2/autonomous-proposition) | 自主命题方法论：让 AI 独立完成高质量出卷（人机决策分离+经验蒸馏） | ⭐ 方法论 |
@@ -19,17 +20,19 @@
 ## 🧠 我在做什么
 
 - **用 AI 搭"越用越懂自己的系统"**：记忆分层、经验蒸馏、技能自我进化——把 AI 从"问答工具"变成"会成长的工作伙伴"
+- **造 AI 技术团队**：10 个身份技能包（架构/实现/审查/文档/发布/演示/安全/社区/策划/记忆管家），会进化、带实证、可双路径使用
 - **AI 自主命题**：让 AI 按专家规范出卷，人只做决策，AI 做生成与计算
-- **方法论开源**：把踩坑经验蒸馏成可复用的方法论，让更多人少走弯路
+- **方法论开源**：把踩坑经验蒸馏成可复用的方法论（含公开的踩坑日志），让更多人少走弯路
 
 ## 🔧 技术栈
 
-Python · AI Agent 工作流 · 知识库系统设计 · PDF 渲染 · 数据清洗
+Python · AI Agent 工作流 · Agent Skills · 知识库系统设计 · PDF 渲染 · 数据清洗
 
 ## ✨ 想法
 
 > 结论是入口，不是答案。
 > 好系统不是写出来的，是"用 + 蒸馏"出来的。
+> 最优不是给定的，是探索出来的——给你路径，也给你找到自己路径的能力。
 
 ---
 
