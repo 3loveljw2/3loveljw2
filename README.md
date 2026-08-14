@@ -28,10 +28,21 @@
 
 Python · AI Agent 工作流 · Agent Skills · 知识库系统设计 · PDF 渲染 · 数据清洗
 
-## ✨ 想法
+## ✨ Creed · 信念
 
+> **In a world flooded with information, discernment is essential. Nothing is truly binary — I believe dynamic change is the truth.**
+> 在当今世界，在信息洪流中，人对信息应该有辨别力。任何事物都不应该二元对立，我相信动态变化才是真理。
+
+> "AI is not an authoritative mentor, but an intimate learning partner — it offers options, and the decision always remains mine."
+> "AI 不是权威的导师，而是亲密的学习伙伴——它给选项，决策权永远在我手里。"
+
+> "Sovereignty over my knowledge stays with me: data, cognition, emotions — none are handed over."
+> "知识的主权属于自己：数据、认知、情绪，都不出让。"
+
+> A conclusion is an entry point, not the answer.
 > 结论是入口，不是答案。
-> 好系统不是写出来的，是"用 + 蒸馏"出来的。
+
+> The optimal is not given — it is discovered. I give you the path, and the ability to find your own.
 > 最优不是给定的，是探索出来的——给你路径，也给你找到自己路径的能力。
 
 ---
