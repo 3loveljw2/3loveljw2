@@ -8,13 +8,20 @@
 
 ## 📦 开源项目
 
+### 🤖 AI 系统实践
+
 | 项目 | 说明 | 状态 |
 |---|---|---|
-| [**agent-identity-kit**](https://github.com/3loveljw2/agent-identity-kit) | AI 技术团队身份技能包：10 个会进化的 Agent 身份（自进化 + 实证 + 双路径：落地即用 / 自适应探索） | 🔥 最新 |
-| [**self-evolving-agent**](https://github.com/3loveljw2/self-evolving-agent) | 越用越懂你的系统：AI 记忆系统基准框架（五层架构/经验蒸馏/技能进化，sea CLI 已可运行） | ⭐ 旗舰 |
+| [**self-evolving-agent**](https://github.com/3loveljw2/self-evolving-agent) | 越用越懂你的系统：AI 记忆系统基准框架（五层架构/经验蒸馏/技能进化，sea CLI 已可运行，10/10 测试） | ⭐ 旗舰 |
+| [**agent-identity-kit**](https://github.com/3loveljw2/agent-identity-kit) | AI 技术团队身份技能包：10 个会进化的 Agent 身份（自进化 + 实证 + 双路径） | 🔥 最新 |
 | [**trace-dig-method**](https://github.com/3loveljw2/trace-dig-method) | 溯源深挖法：通用研究推理方法论（结论→溯源→机制→根因→可行动） | ⭐ 方法论 |
 | [**autonomous-proposition**](https://github.com/3loveljw2/autonomous-proposition) | 自主命题方法论：让 AI 独立完成高质量出卷（人机决策分离+经验蒸馏） | ⭐ 方法论 |
-| [**sovereign-protocols**](https://github.com/3loveljw2/sovereign-protocols) | AI 时代人的主权协议集：数据主权（SDSP）/ 认知主权（CSG）/ 社会企业治理 / 教育哲学 / 经验蒸馏——五份可执行的协议设计 | ⭐ 理念 |
+
+### 💡 理念设计（实验室）
+
+| 项目 | 说明 |
+|---|---|
+| [**sovereign-protocols**](https://github.com/3loveljw2/sovereign-protocols) | AI 时代人的主权协议集（SDSP/CSG/治理宪法/教育哲学/蒸馏方法论）——**理念设计文档，非生产软件** |
 
 ---
 
